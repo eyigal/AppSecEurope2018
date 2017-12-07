@@ -24,8 +24,7 @@ Tel Aviv’s port is one of the city’s main entertainment hubs with trendy s
 
 ### Neve Tzedek and historic train station (Tachana)
 Neve Tzedek is one of Tel Aviv’s most beautiful neighborhoods – and historically, was the first neighborhood built outside of Jaffa. It’s perfect for a romantic stroll along the small streets and alleyways and past the beautifully restored buildings.
-image: todo/Jaffe_Train_station.jpg	
-imageposition: "center 30%"
+[[todo/Jaffe_Train_station.jpg|Testing]]
 
 ### Bauhaus Architecture
 Tel Aviv boasts a treasure trove of exemplary architecture. One of Tel Aviv’s nicknames is even the White City, thanks to its large number of white Bauhaus (International-style) buildings. In 2003, the United Nations Educational, Scientific and Cultural Organization (UNESCO) proclaimed Tel Aviv’s White City a World Cultural Heritage site.
